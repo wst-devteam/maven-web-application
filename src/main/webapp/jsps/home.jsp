@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Wizdom Technologies. Hyderabad, Telangana </h1>
-<h1 align="center"> Wizdom Software Technologys- Very Good Training center for AWS-DevOps and Azure-Devops in Hyderabad 
+<h1 align="center"> Checking the JaCoCo Report in Jenkins Server and Azure-Devops in Hyderabad 
 	Provide, Training/Placement and Job Support as well...Teaching Real Time scenarios
 	Mobile: 8309540541 / 6305290860
 </h1>
