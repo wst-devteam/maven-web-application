@@ -12,6 +12,7 @@ stage('Build'){
 //Get the variable Value
 sh "${mavenHome}/bin/mvn clean package"
 }
+/*
 //Execute the SonarQube Report
 stage('ExecuteSonarQubeReport'){
 sh "${mavenHome}/bin/mvn clean sonar:sonar"
@@ -20,6 +21,7 @@ sh "${mavenHome}/bin/mvn clean sonar:sonar"
 stage('UploadArtifactsintoNexus'){
 sh "${mavenHome}/bin/mvn deploy"
 }
+*/
 //Deploy Application into Tomcat Server
 stage('DeployApplicationIntoTomcatServer') {
 deploy adapters: [tomcat9(credentialsId: 'a34e1a0b-6590-4980-b8c2-69a437db803c', path: '', url: 'http://192.168.157.138:9980/')], contextPath: '/maven-web-application', war: '**/*.war'
