@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Wizdom Technologies. Hyderabad, Telangana </h1>
+<h1 align="center">Welcome to Live Demo on DevOps </h1>
 <h1 align="center"> Wizdom Technologies Jenkins Server and Azure-Devops in Hyderabad 
 	Provide, Training/Placement and Job Support as well...Teaching Real Time scenarios
 	Mobile: 8309540541 / 6305290860
