@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Wizdom Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.119.137:9980/wizdomtechnologies/repository/amazon-release/</url>
+	      <url>http://13.127.48.119:9980/wizdomtechnologies/repository/facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Wizdom Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.119.137:9980/wizdomtechnologies/repository/amazon-snapshot/</url>
+	      <url>http://13.127.48.119:9980/wizdomtechnologies/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
