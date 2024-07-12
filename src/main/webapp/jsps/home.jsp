@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to  DevOps Master Program Checking the Github WebHooks Demo</h1>
+<h1 align="center">Welcome to  DevOps Master Program Checking the Github WebHooks DEMO</h1>
 <h1 align="center"> Knowledge IT Jenkins Server and Azure-Devops in Hyderabad 
 	Provide, Training/Placement and Job Support as well...Teaching Real Time scenarios
 	
