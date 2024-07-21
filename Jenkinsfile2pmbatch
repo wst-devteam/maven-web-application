@@ -11,6 +11,7 @@ stage('Build'){
 //To get the Variable Value
 sh "${mavenHome}/bin/mvn clean package"	
 }
+/*
 //Execute the SonarQube Report
 stage('ExecuteSonarQubeReport') {
 sh "${mavenHome}/bin/mvn sonar:sonar"
@@ -26,4 +27,5 @@ sshagent(['8268dc26-739f-47e2-aec0-83086f3d830f']) {
 sh "scp -o  StrictHostKeyChecking=no target/maven-web-application.war ec2-user@13.232.74.171:/opt/apache-tomcat-9.0.91/webapps"
 }
 }
+*/
 }
