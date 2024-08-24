@@ -10,9 +10,7 @@
 </head>
 <body>
 <h1 align="center">Checking the Docker Concepts Hyderabad, Telangana </h1>
-<h1 align="center">Wizdom Software Technologys - Very good training center for AWS-DevOps and Azure-Devops in Hyderabad. 
-	Provids Training/Placement and Job Support as well...Teaching Real Time scenarios
-	Mobile: 8309540541
+<h1 align="center">Knowledge IT - Very good training center for AWS-DevOps and Azure-Devops in Hyderabad. 
 </h1>
 <hr>
 <br>
