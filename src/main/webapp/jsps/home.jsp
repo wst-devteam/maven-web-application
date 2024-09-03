@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Checking the Docker Concepts Hyderabad, Telangana </h1>
+<h1 align="center">Checking the GitHub Hyderabad, Telangana </h1>
 <h1 align="center">Knowledge IT - Very good training center for AWS-DevOps and Azure-Devops in Hyderabad. 
 </h1>
 <hr>
